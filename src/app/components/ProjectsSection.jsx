@@ -8,11 +8,11 @@ const projectsData = [
 
   {
     id: 2,
-    title: "Movie Website",
-    image: "/images/projects/movie.png",
+    title: "eccomerce Website",
+    image: "/images/projects/front.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/Stivechiazz/Movies",
-    previewUrl: "https://movie-site-omega-black.vercel.app/",
+    gitUrl: "https://github.com/Stivechiazz/ecomm",
+    previewUrl: "https://digi-mall-beryl.vercel.app/",
   },
   {
     id: 3,

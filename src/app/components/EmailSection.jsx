@@ -23,7 +23,7 @@ const EmailSection = () => {
           </p>
         </div>
 
-        <div className="mb-4 flex gap-2">
+        <div className="mb-6 flex gap-2">
           <a href="https://www.linkedin.com/Stephen Gichia/" target="_blank" rel="noopener noreferrer" className="text-white text-sm font-medium flex items-center gap-1">
             <FaLinkedin className="social-icon" style={{ fontSize: '20px', color: '#0077b5' }} />
             LinkedIn
@@ -34,7 +34,7 @@ const EmailSection = () => {
           </a>
           <a href="tel:254708952268" className="text-white text-sm font-medium flex items-center gap-1">
             <FaWhatsapp className="social-icon" style={{ fontSize: '20px', color: '#25d366' }} />
-            +254 708952268
+            +254 758827458
           </a>
         </div>
         { (

@@ -24,7 +24,7 @@ const HeroSection = () => {
               sequence={[
                 "Steve",
                 1000,
-                "Full-Stack Developer👨‍💻",
+                "Full-Stack Developer",
                 1000,
                 "Automation and intergrations",
                 1000,
@@ -66,7 +66,7 @@ const HeroSection = () => {
         >
           <div className="rounded-full  w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
             <Image
-              src="/images/deve.jpg"
+              src="/images/chiazz.png"
               alt="hero image"
               className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               width={300}

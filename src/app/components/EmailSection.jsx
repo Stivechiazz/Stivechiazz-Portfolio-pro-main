@@ -57,7 +57,7 @@ const EmailSection = () => {
           </a>
 
           <a
-            href="tel:254708952268"
+            href="tel:254758827458"
             className="flex items-center gap-2 text-sm hover:text-green-400 transition"
           >
             <FaWhatsapp style={{ fontSize: "20px", color: "#25d366" }} />

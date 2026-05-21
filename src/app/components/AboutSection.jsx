@@ -64,7 +64,7 @@ const AboutSection = () => {
             <p className="text-base lg:text-lg leading-relaxed">
               I am a Full-Stack Developer with a passion for architectural design, automation, and building scalable web applications.
               My core expertise lies in Python and Django, where I architect powerful backend systems, secure REST APIs, and optimized databases.
-              I don't just build websites—I build complete, end-to-end systems. My toolkit spans across React, JavaScript, Node.js, and PostgreSQL,
+              I don&apos;t just build websites—I build complete, end-to-end systems. My toolkit spans across React, JavaScript, Node.js, and PostgreSQL,
               allowing me to deliver responsive user interfaces alongside heavy-lift backend logic.
               Beyond coding features, I focus on the entire development lifecycle. I utilize Docker for containerization,
               automate repetitive processes using n8n, and efficiently deploy modern applications.

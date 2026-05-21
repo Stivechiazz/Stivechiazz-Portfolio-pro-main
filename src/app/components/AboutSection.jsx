@@ -9,11 +9,10 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-5 space-y-1">
-  <li>HTML5 & CSS3</li>
-  <li>JavaScript</li>
-  <li>React.js</li>
   <li>Python</li>
   <li>Django & Django REST Framework</li>
+  <li>JavaScript</li>
+  <li>React.js</li>
   <li>Node.js</li>
   <li>PostgreSQL</li>
   <li>REST API Development</li>
@@ -63,14 +62,13 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
             <p className="text-base lg:text-lg leading-relaxed">
-              I am a Full Stack Developer with a strong passion for building responsive, scalable, and user-friendly web applications. 
-              My strongest expertise is in Python and Django, where I enjoy developing powerful backend systems, REST APIs, 
-              and database-driven applications. I also work with JavaScript, React, Node.js, HTML, CSS, and PostgreSQL to create 
-              complete full stack solutions. 
-              
-              I have experience with Git, Docker, Vercel, Render, and automation tools like n8n, allowing me to efficiently deploy 
-              and manage modern applications. I am a fast learner who enjoys solving real-world problems, improving my skills, 
-              and collaborating with others to build impactful digital products.
+              I am a Full-Stack Developer with a passion for architectural design, automation, and building scalable web applications.
+              My core expertise lies in Python and Django, where I architect powerful backend systems, secure REST APIs, and optimized databases.
+              I don't just build websites—I build complete, end-to-end systems. My toolkit spans across React, JavaScript, Node.js, and PostgreSQL,
+              allowing me to deliver responsive user interfaces alongside heavy-lift backend logic.
+              Beyond coding features, I focus on the entire development lifecycle. I utilize Docker for containerization,
+              automate repetitive processes using n8n, and efficiently deploy modern applications.
+              I love taking real-world problems, breaking them down into clean code, and engineering impactful digital products that scale.
             </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
